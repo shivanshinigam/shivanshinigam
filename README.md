@@ -1,13 +1,7 @@
 # 💫 About Me:
 AI enthusiast focused on ML,DL,NLP,CV, and TimeSeries. I learn by building projects and diving into research. Currently advancing in AI and cuttin-edge research.<br>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shivanshinigam/shivanshinigam/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 ## 🌐 Socials:
