@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://your-image-hosting/starry-nerdy-banner.gif" alt="Welcome Banner" style="border-radius:10px;" />
+</p>
+
+
 <h1 align="center">Hey there! 👋 I'm Shivanshi Nigam</h1>
 <h3 align="center">AI Enthusiast | Deep Learning Researcher | Time Series Explorer | Product-Driven Developer 🚀</h3>
 
