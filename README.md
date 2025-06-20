@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 16px;">
+<p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px;">
   AI enthusiast focused on ML, DL, NLP, CV, and TimeSeries.<br>
   I learn by building projects and diving into research.<br>
   Currently advancing in AI and cutting-edge research.
