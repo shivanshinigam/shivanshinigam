@@ -1,9 +1,6 @@
 # 💫 About Me:
 AI enthusiast focused on ML,DL,NLP,CV, and TimeSeries. I learn by building projects and diving into research. Currently advancing in AI and cuttin-edge research.<br>
 
-![Snake animation](https://github.com/shivanshinigam/raw/output/dist/snake.svg)
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivanshinigam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanshinigam4@gmail.com) 
