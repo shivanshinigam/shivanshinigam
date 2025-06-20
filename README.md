@@ -1,5 +1,10 @@
 # 💫 About Me:
-AI enthusiast focused on ML,DL,NLP,CV, and TimeSeries. I learn by building projects and diving into research. Currently advancing in AI and cuttin-edge research.<br>
+<p style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 16px;">
+  AI enthusiast focused on ML, DL, NLP, CV, and TimeSeries.<br>
+  I learn by building projects and diving into research.<br>
+  Currently advancing in AI and cutting-edge research.
+</p>
+
 
 
 ## 🌐 Socials:
