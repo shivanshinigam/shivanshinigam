@@ -111,9 +111,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shivanshinigam&icon=0&color=4" />
-</p>
 
 <p align="center">
   <i>Built with ❤️ & Markdown by Shivanshi Nigam</i><br>
