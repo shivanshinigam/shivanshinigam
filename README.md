@@ -50,16 +50,16 @@
 ---
 
 <!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 <div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #6366F1;border-radius:10px;padding:20px;height:100%;">
 
-### 🔐 Permission-Aware RAG Gateway
+### Permission-Aware RAG Gateway
 
-Middleware between real company data sources (Google Drive, Slack) and an LLM chatbot that enforces the source system's actual ACLs — so the bot can never answer with information a user isn't permitted to see, even when every document lives in the same vector index.
+A middleware layer between company data sources — Google Drive, Slack — and an LLM chatbot that enforces each source's real access-control rules. Even when every document lives in the same vector index, the bot can never surface information a given user isn't permitted to see.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" />
@@ -73,9 +73,9 @@ Middleware between real company data sources (Google Drive, Slack) and an LLM ch
 <td width="50%" valign="top">
 <div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #14B8A6;border-radius:10px;padding:20px;height:100%;">
 
-### 🕵️ Verifying Code Review Agent
+### Verifying Code Review Agent
 
-An LLM-powered code review agent that doesn't just critique diffs — it verifies its own claims via Docker-sandboxed execution, closing the gap between "the AI says this is broken" and "this is actually broken."
+An LLM-powered code review agent that goes beyond critiquing diffs — it verifies its own claims through Docker-sandboxed execution, closing the gap between the model saying code is broken and confirming that it actually is.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/LLM-14B8A6?style=flat-square" />
@@ -91,9 +91,9 @@ An LLM-powered code review agent that doesn't just critique diffs — it verifie
 <td width="50%" valign="top">
 <div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #29B5E8;border-radius:10px;padding:20px;height:100%;">
 
-### 🤖 Snowflake QA Bot
+### Snowflake QA Bot
 
-Natural-language-to-SQL bot powered by Snowflake Cortex and Semantic View — ask plain-English questions about sales and customer data and get back accurate SQL queries and results.
+A natural-language-to-SQL bot built on Snowflake Cortex and Semantic View. Ask plain-English questions about sales and customer data and get back accurate SQL queries and results.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Snowflake%20Cortex-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
@@ -107,9 +107,9 @@ Natural-language-to-SQL bot powered by Snowflake Cortex and Semantic View — as
 <td width="50%" valign="top">
 <div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #EC4899;border-radius:10px;padding:20px;height:100%;">
 
-### 🛡️ ZK-AI Identity Verifier
+### ZK-AI Identity Verifier
 
-Privacy-first human verification — classifies voice and keystroke biometrics with AI, generates a Zero-Knowledge Proof of the result, and stores it on IPFS with on-chain verification via smart contracts. Proof you're human, without giving away your data.
+A privacy-first human verification system. It classifies voice and keystroke biometrics with AI, generates a zero-knowledge proof of the result, and stores that proof on IPFS with on-chain verification — proving you're human without revealing your data.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
@@ -126,9 +126,9 @@ Privacy-first human verification — classifies voice and keystroke biometrics w
 <td width="50%" valign="top">
 <div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #F97316;border-radius:10px;padding:20px;height:100%;">
 
-### 🗣️ Hate Speech Detection
+### Hate Speech Detection
 
-Multilingual hate speech classifier using MuRIL and BERT transformers, sorting Hinglish (Roman Hindi) social media posts into Profane, Hate, or Neutral — including a custom profanity list and Hinglish-to-English mapping for low-resource language handling.
+A multilingual hate speech classifier built on MuRIL and BERT transformers, sorting Hinglish (Roman Hindi) social media posts into Profane, Hate, or Neutral — including a custom profanity list and a Hinglish-to-English mapping for low-resource language handling.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MuRIL-F97316?style=flat-square" />
