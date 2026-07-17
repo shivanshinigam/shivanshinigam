@@ -31,13 +31,7 @@
   <tr>
     <td width="60%" valign="top" style="border: none;">
       <br/>
-      <ul>
-        <li>AI/ML Engineer with hands-on experience in <img src="https://img.shields.io/badge/LLMs-57e389?style=flat-square" valign="middle"/> <img src="https://img.shields.io/badge/NLP-57e389?style=flat-square" valign="middle"/> <img src="https://img.shields.io/badge/Computer%20Vision-57e389?style=flat-square" valign="middle"/>, plus cloud & data engineering across <img src="https://img.shields.io/badge/AWS-29B5E8?style=flat-square" valign="middle"/> <img src="https://img.shields.io/badge/Databricks-29B5E8?style=flat-square" valign="middle"/> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square" valign="middle"/>.</li>
-        <li>Built an <img src="https://img.shields.io/badge/AI%20Learning%20Operating%20System-6366F1?style=flat-square" valign="middle"/> serving 1200+ students, and contributing to <img src="https://img.shields.io/badge/Agentic%20AI-EC4899?style=flat-square" valign="middle"/> systems with multi-agent orchestration.</li>
-        <li>Published IEEE research in surgical robotics AI and hate speech detection using transformer models.</li>
-        <li>I believe in <img src="https://img.shields.io/badge/learning%20by%20doing-F97316?style=flat-square" valign="middle"/> — breaking code to fix it better.</li>
-        <li>Ask me about <img src="https://img.shields.io/badge/LLMs-14B8A6?style=flat-square" valign="middle"/> <img src="https://img.shields.io/badge/Zero--Knowledge%20Proofs-14B8A6?style=flat-square" valign="middle"/> <img src="https://img.shields.io/badge/Neural%20Networks-14B8A6?style=flat-square" valign="middle"/> <img src="https://img.shields.io/badge/Cloud%20Architecture-14B8A6?style=flat-square" valign="middle"/>.</li>
-      </ul>
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&multiline=true&width=600&height=260&size=15&color=57E389&center=false&vCenter=true&pause=1000&lines=%24+whoami;AI%2FML+Engineer+--+LLMs+.+NLP+.+Computer+Vision;%24+stack+--cloud;AWS+.+Databricks+.+Snowflake;%24+built;AI+Learning+OS+--+1200%2B+students%2C+Agentic+AI+systems;%24+research;2x+IEEE+publications;%24+philosophy;learning+by+doing_" alt="terminal about me" />
     </td>
     <td width="40%" valign="top" style="border: none;">
       <div align="center">
