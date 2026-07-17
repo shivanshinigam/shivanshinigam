@@ -76,13 +76,6 @@
 
 ---
 
-<!-- Trophy Case -->
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=shivanshinigam&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
 <!-- Footer Quote -->
 <h3 align="center">Digital Philosophy</h3>
 <p align="center">
