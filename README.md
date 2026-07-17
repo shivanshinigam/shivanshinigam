@@ -55,63 +55,89 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+<div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #6366F1;border-radius:10px;padding:20px;height:100%;">
 
-**🔐 Permission-Aware RAG Gateway**
-<br/>
+### 🔐 Permission-Aware RAG Gateway
+
 Middleware between real company data sources (Google Drive, Slack) and an LLM chatbot that enforces the source system's actual ACLs — so the bot can never answer with information a user isn't permitted to see, even when every document lives in the same vector index.
-<br/><br/>
-<code>Python</code> <code>RAG</code> <code>LLM</code> <code>Access Control</code>
-<br/>
-<a href="https://github.com/shivanshinigam/permission-aware-rag-gateway">Repo</a>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/Access%20Control-6366F1?style=flat-square" />
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanshinigam/permission-aware-rag-gateway)
+
+</div>
 </td>
 <td width="50%" valign="top">
+<div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #14B8A6;border-radius:10px;padding:20px;height:100%;">
 
-**🕵️ Verifying Code Review Agent**
-<br/>
+### 🕵️ Verifying Code Review Agent
+
 An LLM-powered code review agent that doesn't just critique diffs — it verifies its own claims via Docker-sandboxed execution, closing the gap between "the AI says this is broken" and "this is actually broken."
-<br/><br/>
-<code>Python</code> <code>LLM</code> <code>Docker</code> <code>Agentic AI</code>
-<br/>
-<a href="https://github.com/shivanshinigam/verifying-code-review-agent">Repo</a>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-14B8A6?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic%20AI-14B8A6?style=flat-square" />
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanshinigam/verifying-code-review-agent)
+
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #29B5E8;border-radius:10px;padding:20px;height:100%;">
 
-**🤖 Snowflake QA Bot**
-<br/>
+### 🤖 Snowflake QA Bot
+
 Natural-language-to-SQL bot powered by Snowflake Cortex and Semantic View — ask plain-English questions about sales and customer data and get back accurate SQL queries and results.
-<br/><br/>
-<code>Python</code> <code>Snowflake Cortex</code> <code>Streamlit</code>
-<br/>
-<a href="https://github.com/shivanshinigam/Snowflake_Streamlit">Repo</a> · <a href="https://snowflake-streamlit.onrender.com">Live</a>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake%20Cortex-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanshinigam/Snowflake_Streamlit)
+[![Live](https://img.shields.io/badge/Live%20Demo-29B5E8?style=for-the-badge&logo=render&logoColor=white)](https://snowflake-streamlit.onrender.com)
+
+</div>
 </td>
 <td width="50%" valign="top">
+<div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #EC4899;border-radius:10px;padding:20px;height:100%;">
 
-**🛡️ ZK-AI Identity Verifier**
-<br/>
+### 🛡️ ZK-AI Identity Verifier
+
 Privacy-first human verification — classifies voice and keystroke biometrics with AI, generates a Zero-Knowledge Proof of the result, and stores it on IPFS with on-chain verification via smart contracts. Proof you're human, without giving away your data.
-<br/><br/>
-<code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>SnarkJS</code> <code>Solidity</code>
-<br/>
-<a href="https://github.com/shivanshinigam/ZKProof">Repo</a> · <a href="https://zkproofverifier.netlify.app">Live</a>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-EC4899?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanshinigam/ZKProof)
+[![Live](https://img.shields.io/badge/Live%20Demo-EC4899?style=for-the-badge&logo=netlify&logoColor=white)](https://zkproofverifier.netlify.app)
+
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #F97316;border-radius:10px;padding:20px;height:100%;">
 
-**🗣️ Hate Speech Detection**
-<br/>
+### 🗣️ Hate Speech Detection
+
 Multilingual hate speech classifier using MuRIL and BERT transformers, sorting Hinglish (Roman Hindi) social media posts into Profane, Hate, or Neutral — including a custom profanity list and Hinglish-to-English mapping for low-resource language handling.
-<br/><br/>
-<code>Python</code> <code>MuRIL</code> <code>BERT</code> <code>Transformers</code>
-<br/>
-<a href="https://github.com/shivanshinigam/Hate-Speech-Detection">Repo</a>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MuRIL-F97316?style=flat-square" />
+<img src="https://img.shields.io/badge/BERT-F97316?style=flat-square" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanshinigam/Hate-Speech-Detection)
+
+</div>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
