@@ -31,7 +31,13 @@
   <tr>
     <td width="60%" valign="top" style="border: none;">
       <br/>
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&multiline=true&width=600&height=260&size=15&color=57E389&center=false&vCenter=true&pause=1000&lines=%24+whoami;AI%2FML+Engineer+--+LLMs+.+NLP+.+Computer+Vision;%24+stack+--cloud;AWS+.+Databricks+.+Snowflake;%24+built;AI+Learning+OS+--+1200%2B+students%2C+Agentic+AI+systems;%24+research;2x+IEEE+publications;%24+philosophy;learning+by+doing_" alt="terminal about me" />
+      <ul>
+        <li>AI/ML Engineer with hands-on experience in <b>LLMs, NLP, and Computer Vision</b>, plus cloud & data engineering across <b>AWS, Databricks, and Snowflake</b>.</li>
+        <li>Built an <b>AI Learning Operating System</b> serving 1200+ students, and contributing to <b>Agentic AI</b> systems with multi-agent orchestration.</li>
+        <li>Published IEEE research in surgical robotics AI and hate speech detection using transformer models.</li>
+        <li>I believe in <b>learning by doing</b> — breaking code to fix it better.</li>
+        <li>Ask me about <b>LLMs, Zero-Knowledge Proofs, Neural Networks, or Cloud Architecture</b>.</li>
+      </ul>
     </td>
     <td width="40%" valign="top" style="border: none;">
       <div align="center">
