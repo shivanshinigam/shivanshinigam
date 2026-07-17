@@ -31,10 +31,22 @@
   <tr>
     <td width="60%" valign="top" style="border: none;">
       <br/>
+      <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;">
+        <div style="background:#161b22;border:1px solid #30363d;border-left:3px solid #57e389;border-radius:6px;padding:10px 14px;">
+          <b style="font-size:16px;color:#57e389;">1200+</b><br/><sub>Students Impacted</sub>
+        </div>
+        <div style="background:#161b22;border:1px solid #30363d;border-left:3px solid #6366F1;border-radius:6px;padding:10px 14px;">
+          <b style="font-size:16px;color:#6366F1;">2</b><br/><sub>IEEE Publications</sub>
+        </div>
+        <div style="background:#161b22;border:1px solid #30363d;border-left:3px solid #29B5E8;border-radius:6px;padding:10px 14px;">
+          <b style="font-size:16px;color:#29B5E8;">Multi-Agent</b><br/><sub>Agentic AI Systems</sub>
+        </div>
+        <div style="background:#161b22;border:1px solid #30363d;border-left:3px solid #EC4899;border-radius:6px;padding:10px 14px;">
+          <b style="font-size:16px;color:#EC4899;">LLM · NLP · CV</b><br/><sub>Core Focus</sub>
+        </div>
+      </div>
       <ul>
         <li>AI/ML Engineer with hands-on experience in <b>LLMs, NLP, and Computer Vision</b>, plus cloud & data engineering across <b>AWS, Databricks, and Snowflake</b>.</li>
-        <li>Built an <b>AI Learning Operating System</b> serving 1200+ students, and contributing to <b>Agentic AI</b> systems with multi-agent orchestration.</li>
-        <li>Published IEEE research in surgical robotics AI and hate speech detection using transformer models.</li>
         <li>I believe in <b>learning by doing</b> — breaking code to fix it better.</li>
         <li>Ask me about <b>LLMs, Zero-Knowledge Proofs, Neural Networks, or Cloud Architecture</b>.</li>
       </ul>
