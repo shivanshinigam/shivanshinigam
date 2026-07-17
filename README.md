@@ -6,11 +6,11 @@
 <!-- Header & Typing Effect -->
 <h1 align="center">Hi there, I'm <span style="color: #57e389;">Shivanshi Nigam</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"></h1>
 <h3 align="center">
-  <i>AI Enthusiast &bull; Deep Learning Researcher &bull; Time Series Explorer</i>
+  <i>AI/ML Engineer &bull; LLM & Agentic AI Builder &bull; Cloud & Data Engineer</i>
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Intelligent+Systems+;Researching+Deep+Learning+&+NLP+;Building+Real-World+AI+Solutions+;Explaining+Data+with+Creativity+&font=Fira%20Code&center=true&width=500&height=30&color=57e389&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+LLM+%26+Agentic+AI+Systems+;Deploying+Scalable+Cloud+Pipelines+;Researching+NLP+%26+Computer+Vision+;Shipping+Real-World+AI+Products+&font=Fira%20Code&center=true&width=500&height=30&color=57e389&vCenter=true&size=20" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,23 +28,22 @@
 ---
 
 <!-- About Me Section with Side-by-Side Layout -->
-<h2 align="center"> About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table align="center" style="border: none;">
   <tr>
     <td width="60%" valign="top" style="border: none;">
       <br/>
       <ul>
-        <li> <b>Passionate Researcher</b> in Deep Learning, NLP, and Computer Vision.</li>
-        <li> Currently working on <b>Time Series Forecasting & Applied AI</b>.</li>
-        <li> I believe in <b>learning by doing</b> — breaking code to fix it better.</li>
-        <li> Always exploring new papers and <b>State-of-the-Art</b> models.</li>
-        <li> Ask me about <b>Neural Networks, Transformers, or Python</b>.</li>
+        <li>AI/ML Engineer with hands-on experience in <b>LLMs, NLP, and Computer Vision</b>, plus cloud & data engineering across <b>AWS, Databricks, and Snowflake</b>.</li>
+        <li>Built an <b>AI Learning Operating System</b> serving 1200+ students, and contributing to <b>Agentic AI</b> systems with multi-agent orchestration.</li>
+        <li>Published IEEE research in surgical robotics AI and hate speech detection using transformer models.</li>
+        <li>I believe in <b>learning by doing</b> — breaking code to fix it better.</li>
+        <li>Ask me about <b>LLMs, Zero-Knowledge Proofs, Neural Networks, or Cloud Architecture</b>.</li>
       </ul>
     </td>
     <td width="40%" valign="top" style="border: none;">
       <div align="center">
-        <!-- You can replace this with a personal avatar or a tech gif -->
         <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="90%" style="border-radius:10px;" alt="Coding Gif" />
       </div>
     </td>
@@ -60,54 +59,70 @@
 <div align="center">
   <h3>Languages</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-<!-- AI & Data Science -->
+<!-- AI / LLM / Data Science -->
 <div align="center">
-  <h3>Artificial Intelligence & Data Science</h3>
+  <h3>AI, LLMs & Data Science</h3>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge&logo=huggingface&logoColor=black" />
 </div>
 
-<!-- Web Dev -->
+<!-- Cloud & Data Platforms -->
 <div align="center">
-  <h3>Web Development</h3>
-  <img src="https://img.shields.io/badge/Comp_Vision_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" /> <!-- Creative Label for FastAPI -->
+  <h3>Cloud & Data Platforms</h3>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SageMaker-01A88D?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</div>
+
+<!-- Backend & APIs -->
+<div align="center">
+  <h3>Backend & Web</h3>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </div>
 
-<!-- Tools & Cloud -->
+<!-- DevOps & Tools -->
 <div align="center">
-  <h3>Tools & Cloud</h3>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <h3>DevOps & Automation</h3>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</div>
+
+<!-- Analytics & BI -->
+<div align="center">
+  <h3>Data Analytics & BI</h3>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </div>
 
 ---
-
- <!--<h2 align="center">📊 Coding Activity</h2>-->
-
-<div align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=shivanshinigam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="Stats" />-->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshinigam&theme=tokyonight&hide_border=true&background=00000000" height="180" alt="Streak" />
-</div>-->
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshinigam&bg_color=0d1117&color=57e389&line=2ea043&point=1adbce&area=true&hide_border=true" width="100%" alt="Activity Graph" />
@@ -116,7 +131,7 @@
 ---
 
 <!-- Footer Quote -->
-<h3 align="center"> Digital Philosophy</h3>
+<h3 align="center">Digital Philosophy</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
