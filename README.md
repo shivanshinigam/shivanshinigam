@@ -49,6 +49,76 @@
 
 ---
 
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🔐 Permission-Aware RAG Gateway**
+<br/>
+Middleware between real company data sources (Google Drive, Slack) and an LLM chatbot that enforces the source system's actual ACLs — so the bot can never answer with information a user isn't permitted to see, even when every document lives in the same vector index.
+<br/><br/>
+<code>Python</code> <code>RAG</code> <code>LLM</code> <code>Access Control</code>
+<br/>
+<a href="https://github.com/shivanshinigam/permission-aware-rag-gateway">Repo</a>
+
+</td>
+<td width="50%" valign="top">
+
+**🕵️ Verifying Code Review Agent**
+<br/>
+An LLM-powered code review agent that doesn't just critique diffs — it verifies its own claims via Docker-sandboxed execution, closing the gap between "the AI says this is broken" and "this is actually broken."
+<br/><br/>
+<code>Python</code> <code>LLM</code> <code>Docker</code> <code>Agentic AI</code>
+<br/>
+<a href="https://github.com/shivanshinigam/verifying-code-review-agent">Repo</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Snowflake QA Bot**
+<br/>
+Natural-language-to-SQL bot powered by Snowflake Cortex and Semantic View — ask plain-English questions about sales and customer data and get back accurate SQL queries and results.
+<br/><br/>
+<code>Python</code> <code>Snowflake Cortex</code> <code>Streamlit</code>
+<br/>
+<a href="https://github.com/shivanshinigam/Snowflake_Streamlit">Repo</a> · <a href="https://snowflake-streamlit.onrender.com">Live</a>
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ ZK-AI Identity Verifier**
+<br/>
+Privacy-first human verification — classifies voice and keystroke biometrics with AI, generates a Zero-Knowledge Proof of the result, and stores it on IPFS with on-chain verification via smart contracts. Proof you're human, without giving away your data.
+<br/><br/>
+<code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>SnarkJS</code> <code>Solidity</code>
+<br/>
+<a href="https://github.com/shivanshinigam/ZKProof">Repo</a> · <a href="https://zkproofverifier.netlify.app">Live</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🗣️ Hate Speech Detection**
+<br/>
+Multilingual hate speech classifier using MuRIL and BERT transformers, sorting Hinglish (Roman Hindi) social media posts into Profane, Hate, or Neutral — including a custom profanity list and Hinglish-to-English mapping for low-resource language handling.
+<br/><br/>
+<code>Python</code> <code>MuRIL</code> <code>BERT</code> <code>Transformers</code>
+<br/>
+<a href="https://github.com/shivanshinigam/Hate-Speech-Detection">Repo</a>
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+
+---
+
 <!-- The Game: animated contribution snake -->
 <p align="center">
 <picture>
