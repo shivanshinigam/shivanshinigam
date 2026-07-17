@@ -44,7 +44,7 @@
     </td>
     <td width="40%" valign="top" style="border: none;">
       <div align="center">
-        <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="90%" style="border-radius:10px;" alt="Coding Gif" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmZ4N3k0MjkzYXY4cmZybmlleDhiZWh2dnd0NXB0eWhqanlrbXVtOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="90%" style="border-radius:10px;" alt="Coding Gif" />
       </div>
     </td>
   </tr>
@@ -142,4 +142,7 @@
   <br/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=shivanshinigam&label=Profile%20Views&color=57e389&style=for-the-badge" alt="Profile Views" />
+  <br/>
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zZzAyMW1icTQ1N2Z3bmZ3eGIycjJqd2d5bHFhZG91em9zbG94diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W5HN84GP9OQJO8Jhbl/giphy.gif" width="300" alt="Closing gif" />
 </div>
