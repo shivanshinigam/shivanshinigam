@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Intelligent+Systems+🚀;Researching+Deep+Learning+&+NLP+🧠;Building+Real-World+AI+Solutions+🧪;Explaining+Data+with+Creativity+🎨&font=Fira%20Code&center=true&width=500&height=30&color=57e389&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Intelligent+Systems+;Researching+Deep+Learning+&+NLP+;Building+Real-World+AI+Solutions+;Explaining+Data+with+Creativity+&font=Fira%20Code&center=true&width=500&height=30&color=57e389&vCenter=true&size=20" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,18 +28,18 @@
 ---
 
 <!-- About Me Section with Side-by-Side Layout -->
-<h2 align="center">⚡ About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <table align="center" style="border: none;">
   <tr>
     <td width="60%" valign="top" style="border: none;">
       <br/>
       <ul>
-        <li>🧠 <b>Passionate Researcher</b> in Deep Learning, NLP, and Computer Vision.</li>
-        <li>🔭 Currently working on <b>Time Series Forecasting & Applied AI</b>.</li>
-        <li>🧪 I believe in <b>learning by doing</b> — breaking code to fix it better.</li>
-        <li>🎓 Always exploring new papers and <b>State-of-the-Art</b> models.</li>
-        <li>💬 Ask me about <b>Neural Networks, Transformers, or Python</b>.</li>
+        <li> <b>Passionate Researcher</b> in Deep Learning, NLP, and Computer Vision.</li>
+        <li> Currently working on <b>Time Series Forecasting & Applied AI</b>.</li>
+        <li> I believe in <b>learning by doing</b> — breaking code to fix it better.</li>
+        <li> Always exploring new papers and <b>State-of-the-Art</b> models.</li>
+        <li> Ask me about <b>Neural Networks, Transformers, or Python</b>.</li>
       </ul>
     </td>
     <td width="40%" valign="top" style="border: none;">
@@ -116,7 +116,7 @@
 ---
 
 <!-- Footer Quote -->
-<h3 align="center">💭 Digital Philosophy</h3>
+<h3 align="center"> Digital Philosophy</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
