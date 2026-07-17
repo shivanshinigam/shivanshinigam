@@ -41,7 +41,7 @@
     </td>
     <td width="40%" valign="top" style="border: none;">
       <div align="center">
-        <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="90%" style="border-radius:10px;" alt="Coding Gif" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmZ4N3k0MjkzYXY4cmZybmlleDhiZWh2dnd0NXB0eWhqanlrbXVtOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="90%" style="border-radius:10px;" alt="Coding Gif" />
       </div>
     </td>
   </tr>
@@ -77,9 +77,8 @@
 ---
 
 <!-- Trophy Case -->
-<h2 align="center">🏆 Trophy Case</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivanshinigam&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=shivanshinigam&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
