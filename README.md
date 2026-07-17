@@ -32,11 +32,11 @@
     <td width="60%" valign="top" style="border: none;">
       <br/>
       <ul>
-        <li>AI/ML Engineer with hands-on experience in <b style="color:#57e389;">LLMs, NLP, and Computer Vision</b>, plus cloud & data engineering across <b style="color:#29B5E8;">AWS, Databricks, and Snowflake</b>.</li>
-        <li>Built an <b style="color:#6366F1;">AI Learning Operating System</b> serving 1200+ students, and contributing to <b style="color:#EC4899;">Agentic AI</b> systems with multi-agent orchestration.</li>
+        <li>AI/ML Engineer with hands-on experience in <img src="https://img.shields.io/badge/LLMs-57e389?style=flat-square" valign="middle"/> <img src="https://img.shields.io/badge/NLP-57e389?style=flat-square" valign="middle"/> <img src="https://img.shields.io/badge/Computer%20Vision-57e389?style=flat-square" valign="middle"/>, plus cloud & data engineering across <img src="https://img.shields.io/badge/AWS-29B5E8?style=flat-square" valign="middle"/> <img src="https://img.shields.io/badge/Databricks-29B5E8?style=flat-square" valign="middle"/> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square" valign="middle"/>.</li>
+        <li>Built an <img src="https://img.shields.io/badge/AI%20Learning%20Operating%20System-6366F1?style=flat-square" valign="middle"/> serving 1200+ students, and contributing to <img src="https://img.shields.io/badge/Agentic%20AI-EC4899?style=flat-square" valign="middle"/> systems with multi-agent orchestration.</li>
         <li>Published IEEE research in surgical robotics AI and hate speech detection using transformer models.</li>
-        <li>I believe in <b style="color:#F97316;">learning by doing</b> — breaking code to fix it better.</li>
-        <li>Ask me about <b style="color:#14B8A6;">LLMs, Zero-Knowledge Proofs, Neural Networks, or Cloud Architecture</b>.</li>
+        <li>I believe in <img src="https://img.shields.io/badge/learning%20by%20doing-F97316?style=flat-square" valign="middle"/> — breaking code to fix it better.</li>
+        <li>Ask me about <img src="https://img.shields.io/badge/LLMs-14B8A6?style=flat-square" valign="middle"/> <img src="https://img.shields.io/badge/Zero--Knowledge%20Proofs-14B8A6?style=flat-square" valign="middle"/> <img src="https://img.shields.io/badge/Neural%20Networks-14B8A6?style=flat-square" valign="middle"/> <img src="https://img.shields.io/badge/Cloud%20Architecture-14B8A6?style=flat-square" valign="middle"/>.</li>
       </ul>
     </td>
     <td width="40%" valign="top" style="border: none;">
