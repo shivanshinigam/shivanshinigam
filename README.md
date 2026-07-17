@@ -1,29 +1,26 @@
-<!-- Top Banner -->
-<p align="center">
-  <img src="https://your-image-hosting/starry-nerdy-banner.gif" alt="Welcome Banner" width="100%" style="border-radius:12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.5);" />
-</p>
-
-<!-- Header & Typing Effect -->
-<h1 align="center">Hi there, I'm <span style="color: #57e389;">Shivanshi Nigam</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"></h1>
-<h3 align="center">
-  <i>AI/ML Engineer &bull; LLM & Agentic AI Builder &bull; Cloud & Data Engineer</i>
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+LLM+%26+Agentic+AI+Systems+;Deploying+Scalable+Cloud+Pipelines+;Researching+NLP+%26+Computer+Vision+;Shipping+Real-World+AI+Products+&font=Fira%20Code&center=true&width=500&height=30&color=57e389&vCenter=true&size=20" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/shivanshinigam">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shivanshinigam4@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/shivanshinigam">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<!-- Header: side-by-side hero -->
+<table align="center" style="border: none;">
+  <tr>
+    <td width="65%" valign="middle" style="border: none;">
+      <h1>Hi there, I'm <span style="color: #57e389;">Shivanshi Nigam</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"></h1>
+      <h3><i>AI/ML Engineer &bull; LLM & Agentic AI Builder &bull; Cloud & Data Engineer</i></h3>
+      <img src="https://readme-typing-svg.demolab.com/?lines=Building+LLM+%26+Agentic+AI+Systems+;Deploying+Scalable+Cloud+Pipelines+;Researching+NLP+%26+Computer+Vision+;Shipping+Real-World+AI+Products+&font=Fira%20Code&center=false&width=500&height=30&color=57e389&vCenter=true&size=20" alt="Typing SVG" />
+      <br/><br/>
+      <a href="https://linkedin.com/in/shivanshinigam">
+        <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:shivanshinigam4@gmail.com">
+        <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <a href="https://github.com/shivanshinigam">
+        <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+    <td width="35%" valign="middle" align="center" style="border: none;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlxZWs0MWx3ZGVyMzVic3Z5OXFqcHNvaTVtY29wZGQzZzdzcmowZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="100%" style="border-radius:12px;" alt="Hero gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,7 +41,7 @@
     </td>
     <td width="40%" valign="top" style="border: none;">
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmZ4N3k0MjkzYXY4cmZybmlleDhiZWh2dnd0NXB0eWhqanlrbXVtOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="90%" style="border-radius:10px;" alt="Coding Gif" />
+        <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="90%" style="border-radius:10px;" alt="Coding Gif" />
       </div>
     </td>
   </tr>
@@ -91,7 +88,4 @@
   <br/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=shivanshinigam&label=Profile%20Views&color=57e389&style=for-the-badge" alt="Profile Views" />
-  <br/>
-  <br/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlxZWs0MWx3ZGVyMzVic3Z5OXFqcHNvaTVtY29wZGQzZzdzcmowZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="300" alt="Closing gif" />
 </div>
