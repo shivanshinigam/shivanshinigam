@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+LLM+%26+Agentic+AI+Systems+;Deploying+Scalable+Cloud+Pipelines+;Researching+NLP+%26+Computer+Vision+;Shipping+Real-World+AI+Products+&font=Fira%20Code&center=true&width=500&height=30&color=57e389&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+LLM+%26+Agentic+AI+Systems+;Deploying+Scalable+Cloud+Pipelines+;Researching+NLP+%26+Computer+Vision+;Shipping+Real-World+AI+Products+&font=Fira%20Code&center=true&width=500&height=30&color=57e389&vCenter=true&size=20" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -52,8 +52,26 @@
 
 ---
 
+<!-- The Game: animated contribution snake -->
+<p align="center"><sub>my commit history, playing itself</sub></p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivanshinigam/shivanshinigam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivanshinigam/shivanshinigam/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake game" src="https://raw.githubusercontent.com/shivanshinigam/shivanshinigam/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+</p>
+
+---
+
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ Tech Scope</h2>
+
+<!-- Falling Tech Stack -->
+<p align="center">
+  <img src="./assets/tech-rain.svg" width="100%" alt="Falling tech stack" />
+</p>
 
 <!-- Languages -->
 <div align="center">
@@ -144,5 +162,5 @@
   <img src="https://komarev.com/ghpvc/?username=shivanshinigam&label=Profile%20Views&color=57e389&style=for-the-badge" alt="Profile Views" />
   <br/>
   <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zZzAyMW1icTQ1N2Z3bmZ3eGIycjJqd2d5bHFhZG91em9zbG94diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W5HN84GP9OQJO8Jhbl/giphy.gif" width="300" alt="Closing gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlxZWs0MWx3ZGVyMzVic3Z5OXFqcHNvaTVtY29wZGQzZzdzcmowZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="300" alt="Closing gif" />
 </div>
