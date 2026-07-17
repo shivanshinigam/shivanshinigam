@@ -55,32 +55,32 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #6366F1;border-radius:10px;padding:20px;height:100%;">
+<div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #C97C5D;border-radius:10px;padding:20px;height:100%;">
 
 ### Permission-Aware RAG Gateway
 
 A middleware layer between company data sources — Google Drive, Slack — and an LLM chatbot that enforces each source's real access-control rules. Even when every document lives in the same vector index, the bot can never surface information a given user isn't permitted to see.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/LLM-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/Access%20Control-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-C97C5D?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM-C97C5D?style=flat-square" />
+<img src="https://img.shields.io/badge/Access%20Control-C97C5D?style=flat-square" />
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanshinigam/permission-aware-rag-gateway)
 
 </div>
 </td>
 <td width="50%" valign="top">
-<div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #14B8A6;border-radius:10px;padding:20px;height:100%;">
+<div style="background:#161b22;border:1px solid #30363d;border-top:4px solid #C9A876;border-radius:10px;padding:20px;height:100%;">
 
 ### Verifying Code Review Agent
 
 An LLM-powered code review agent that goes beyond critiquing diffs — it verifies its own claims through Docker-sandboxed execution, closing the gap between the model saying code is broken and confirming that it actually is.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-14B8A6?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM-C9A876?style=flat-square" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentic%20AI-14B8A6?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic%20AI-C9A876?style=flat-square" />
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanshinigam/verifying-code-review-agent)
 
